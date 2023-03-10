@@ -1,0 +1,16 @@
+{
+  "name": "bloke/smd_style",
+  "description": "Textpattern CMS plugin to permit public site stylesheet switching",
+  "keywords": ["textpattern", "plugin", "stylesheet", "alternate", "rel", "style", "css", "switcher"],
+  "homepage": "https://github.com/bloke/smd_style",
+  "license": "GPL-2.0",
+  "type": "textpattern-plugin",
+  "support": {
+    "issues": "https://github.com/bloke/smd_style/issues",
+    "source": "https://github.com/bloke/smd_style"
+  },
+  "require": {
+    "textpattern/lock": ">=4.5.0",
+    "textpattern/installer": "*"
+  }
+}

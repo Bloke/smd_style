@@ -1,0 +1,11 @@
+{
+  "name": "smd_style",
+  "description": "Textpattern CMS plugin to permit public site stylesheet switching",
+  "version": "0.3.0",
+  "type": 0,
+  "author": "Stef Dawson",
+  "author_uri": "https://stefdawson.com/",
+  "order": 5,
+  "flags": 0,
+  "help": {"file" : ["./README.textile"]}
+}

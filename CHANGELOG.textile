@@ -1,0 +1,19 @@
+h1. Changelog
+
+h2. 0.3.0 - 2011-11-17
+
+* smd_styleswitch can now switch classes too.
+* Added @html_id@ and @form@ attributes.
+* Cookie can be disabled.
+* jQuery 1.3 fix.
+
+h2. 0.2.0 - 2008-10-18
+
+* Added @parse_tags@ (thanks, akokskis, johnstephens).
+* Added @skip_title@.
+* Fixed invalid link tags.
+* @real_sheets@ now work without a form/container.
+
+h2. 0.1.0 - 2008-10-12
+
+* Initial release.
